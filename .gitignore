@@ -1,0 +1,12 @@
+# Datasets are downloaded by each notebook at runtime (licensing: e.g. CoNLL-2003 text belongs to Reuters)
+data/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
