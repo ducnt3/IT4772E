@@ -10,3 +10,7 @@ venv/
 
 # OS
 .DS_Store
+
+# Session secrets (never commit)
+credentials/
+docs/session-handoffs/
